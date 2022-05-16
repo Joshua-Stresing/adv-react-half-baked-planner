@@ -16,3 +16,4 @@ export default function Entry({ id, title, date }) {
     </Link>
   );
 }
+//added a dummy button
