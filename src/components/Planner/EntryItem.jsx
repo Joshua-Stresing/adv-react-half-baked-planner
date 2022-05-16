@@ -16,4 +16,4 @@ export default function Entry({ id, title, date }) {
     </Link>
   );
 }
-//added a dummy button
+//added a dummy button and update push
